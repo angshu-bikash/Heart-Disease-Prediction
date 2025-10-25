@@ -42,3 +42,10 @@ heart-failure-prediction-thesis
 - README.md
 - LICENSE
 
+
+## Citation
+Mandal, A. (2025). Calibrated Ensemble Learning for Heart-Failure Prediction.
+Charles Darwin University – School of Information Technology.
+
+## Contact
+For queries: angshu.mandal@students.cdu.edu.au

@@ -35,7 +35,6 @@ The project implements an end-to-end experimental pipeline covering:
 
 ## Repository Structure
 heart-failure-prediction-thesis/
-│
 ├── data/ # metadata or synthetic samples only
 ├── notebooks/ # Final_Model.ipynb
 ├── results/ # ROC, calibration, SHAP plots

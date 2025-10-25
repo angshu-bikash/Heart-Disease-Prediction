@@ -34,12 +34,11 @@ The project implements an end-to-end experimental pipeline covering:
 - Calibration: Isotonic regression (preferred) and Platt scaling (comparative)
 
 ## Repository Structure
-heart-failure-prediction-thesis/
-│
-├── data/                 # metadata or synthetic samples only
-├── notebooks/            # Final_Model.ipynb
-├── results/              # ROC, calibration, SHAP plots
-├── requirements.txt
-├── README.md
-└── LICENSE
+heart-failure-prediction-thesis
+- data                 # metadata or synthetic samples only
+- notebooks/            # Final_Model.ipynb
+- results/              # ROC, calibration, SHAP plots
+- requirements.txt
+- README.md
+- LICENSE
 
